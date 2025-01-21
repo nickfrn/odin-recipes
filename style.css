@@ -7,3 +7,13 @@ h1, h2 {
     color: #006d77;
     font-weight: 700;
 }
+
+.main-title, .main-list {
+    margin: 24px auto;
+    text-align: center;
+}
+
+.main-list {
+    list-style: none;
+    padding: 0;
+}
